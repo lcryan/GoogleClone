@@ -1,8 +1,9 @@
 body {
-    background: yellow;     /* red, blue, yellow, etc */
-    color: red;             /* red, blue, yellow, etc */
-    font-size: 20px;        /* 0px - 100px and beyond */
-    font-weight: lighter;   /* lighter, normal, bold  */
-    text-align: right;      /* left, center or right  */
-    margin-top: 5px;        /* From 0px and upwards   */
+    background: lightblue;     /* red, blue, yellow, etc */
+    color: lightseagreen;             /* red, blue, yellow, etc */
+    font-size: 80px;        /* 0px - 100px and beyond */
+    font-weight: normal;   /* lighter, normal, bold  */
+    text-align: center;      /* left, center or right  */
+    margin-top: 300px;        /* From 0px and upwards   */
+    font-family: "Tahoma", sans-serif;
 }
