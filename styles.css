@@ -1,13 +1,16 @@
 body {
     background: white;
 }
-
-input{
-    width: 400px;
+.main{
+    display: block;
 }
-
-img {
+.logo {
+    margin-top: 200px;
     width: 300px;
+
+}
+.text-field {
+    width: 400px;
 }
 
 
