@@ -13,10 +13,8 @@ body {
     margin-right: auto;
 }
 
-.input {
-    text-align: center;
-}
 .text-field {
+    text-align: center;
     width: 400px;
     line-height: 24px;
     display: block;
@@ -43,22 +41,13 @@ body {
     min-width: 54px;
     cursor: pointer;
     user-select: none;
+    margin-right: 10px;
+    margin-left: 10px;
 }
-.btn2 {
 
-    margin-top: 30px;
-
-    border: 1px solid #dfe1e5;
-    border-radius: 4px;
-    color: #3c4043;
-    font-family: arial,sans-serif;
-    font-size: 14px;
-    padding: 0 16px;
-    line-height: 27px;
-    height: 36px;
-    min-width: 54px;
-    cursor: pointer;
-    user-select: none;
+.btn-wrapper {
+    display: flex;
+    justify-content: center;
 }
 
 
